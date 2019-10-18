@@ -1,0 +1,27 @@
+body {
+  justify-content: center;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.5);
+  letter-spacing: 15px;
+  text-transform: uppercase;
+  background: linear-gradient(to right, #dc381f, #4a66a8);
+}
+
+h1 {
+  text-align: center;
+  color: rgba(0, 0, 0, o.3);
+  font-size: 70px;
+  letter-spacing: 1rem;
+  text-transform: uppercase;
+  font: sans-serif;
+}
+
+h2 {
+  font: sans-serif;
+  text-align: center;
+  color: rgba(0, 0, 0, o.5);
+  font-size: 30px;
+  letter-spacing: 1rem;
+  text-transform: none;
+  padding-top: 20px;
+}
